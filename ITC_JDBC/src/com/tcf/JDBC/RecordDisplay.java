@@ -3,7 +3,7 @@ package com.tcf.JDBC;
 
 import java.sql.*;
 import java.util.Scanner;
-;
+
 public class RecordDisplay {
 	public void display(String url) {
 		  try {
